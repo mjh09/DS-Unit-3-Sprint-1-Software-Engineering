@@ -1,0 +1,7 @@
+What, in your opinion, is an important part of code reviews? That is, what is something you pay attention to when you review code, and that you appreciate when others do the same for your code?
+
+- Honestly, I've never conduct nor recieved a 'code review'. What I think   I would look for mostly is readability. Piggy-backing off the idea of     linting, one's ability to easily see what the code is doing is            important. For me, I'd like to know about ares that can be refined with   refactoring or simpler code. Also, any tips, hints, or tricks to be       more computationally efficient.
+
+We have an awful lot of computers here, and it gets pretty confusing with slightly different things running on all of them. How could containers help us improve this situation?
+
+- From my understanding, containers provide an OS level isolation. This     makes it so upon distributing various applications, the requirements      and dependancies needed to run the program can be reproduced on any       machine. Containers would provide a simple way for all users to access    the workspace from their own machine without conflict. In other words,    the applications are compatible across varying types of operating         systems. Also, the cloud based nature means that everyone has access to   the same working directory without too much trouble.
